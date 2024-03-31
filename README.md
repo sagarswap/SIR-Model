@@ -26,3 +26,7 @@ required for global infection resembles the L(p) curve (Fig. 3b).
 Thus, infectious diseases are predicted to spread much more easily
 and quickly in a small world; the alarming and less obvious point is
 how few short cuts are needed to make the world small.
+
+# Dependencies
+
+You need Python3 along with the NetworkX package to run the JupyterNotebook
