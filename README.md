@@ -15,3 +15,14 @@ with probability r. On subsequent time steps, the disease spreads
 along the edges of the graph until it either infects the entire
 population, or it dies out, having infected some fraction of the
 population in the process.
+
+# Result
+
+Two results emerge. First, the critical infectiousness rhalf, at which
+the disease infects half the population, decreases rapidly for small p
+(Fig. 3a). Second, for a disease that is sufficiently infectious to infect
+the entire population regardless of its structure, the time T(p)
+required for global infection resembles the L(p) curve (Fig. 3b).
+Thus, infectious diseases are predicted to spread much more easily
+and quickly in a small world; the alarming and less obvious point is
+how few short cuts are needed to make the world small.
